@@ -5,7 +5,7 @@
 
 <!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;ASP.NET+Core+%7C+React+%7C+Node.js;Building+Real-Time+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;ASP.NET+Core+%7C+React+%7C+Node.js;Building+Scalable+Web+Applications" />
 </p>
 
 ---
@@ -13,9 +13,9 @@
 ## 👨‍💻 ABOUT ME
 
 - 🎓 Computer Science Graduate  
-- 📍 Ramallah, Palestine  
-- ⚡ Passionate about scalable web applications  
-- 🚀 Built real-time auction system with WebSocket  
+- 🌍 Ramallah, Palestine  
+- ⚡ Passionate about building scalable web applications  
+- 🚀 Experienced in full-stack development and real-time systems  
 
 ---
 
@@ -33,7 +33,7 @@
 
 ### Database
 <p>
-  <img src="https://skillicons.dev/icons?i=sqlserver,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mssql,mysql,mongodb" />
 </p>
 
 ### Tools
@@ -45,17 +45,17 @@
 
 ## 💼 PROJECTS
 
-### 🚀 We Mazad
-Real-time auction platform (React + Node.js + WebSocket + Stripe)
+### 🚀 We Mazad – Real-Time Auction Platform
+React + Node.js + WebSocket + Stripe integration
 
-### 👨‍💼 Employee System
-ASP.NET Core + React + SQL Server
+### 👨‍💼 Employee Management System
+ASP.NET Core + React + SQL Server (MSSQL)
 
 ### 📊 Evaluation System
-PHP + MySQL assessment system
+PHP + MySQL performance evaluation system
 
-### 🗺️ Path Finder
-Dijkstra algorithm visualization (React + Python)
+### 🗺️ Shortest Path Finder
+Python + React (Dijkstra Algorithm visualization)
 
 ---
 
@@ -93,5 +93,5 @@ Dijkstra algorithm visualization (React + Python)
 ---
 
 <p align="center">
-⭐ Open for opportunities | Junior Full Stack Developer
+⭐ Open for Opportunities | Junior Full Stack Developer
 </p>
