@@ -36,6 +36,11 @@
   <img src="https://skillicons.dev/icons?i=mssql,mysql,mongodb" />
 </p>
 
+<!-- SQL Badge (because SQL is not supported as icon) -->
+<p>
+  <img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
 ### Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,docker" />
