@@ -63,9 +63,9 @@ Full-stack employee and project management system with RESTful APIs, CRUD operat
 ---
 
 ### 📊 Employee Evaluation System
-**MySQL**
+**React.js • PHP • MySQL**
 
-Performance evaluation system for managing employee assessments, generating reports, and tracking evaluation records.
+Designed and developed a full-stack employee evaluation platform featuring secure authentication, performance assessments, report generation, and efficient data management using MySQL.
 
 ---
 
