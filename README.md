@@ -69,13 +69,6 @@ Performance evaluation system for managing employee assessments, generating repo
 
 ---
 
-### 🗺️ Shortest Path Finder
-**Python • React • Dijkstra Algorithm**
-
-Interactive application that visualizes the shortest path between cities using Dijkstra's algorithm with a dynamic graph interface.
-
----
-
 # 📊 GITHUB STATS
 
 <p align="center">
@@ -113,8 +106,19 @@ Interactive application that visualizes the shortest path between cities using D
 
 ---
 
+# 📈 CURRENT FOCUS
+
+- 🌱 Mastering **ASP.NET Core** & **React**
+- ⚡ Building scalable RESTful APIs
+- 🔥 Improving clean architecture and software design
+- 🚀 Looking for Junior Full Stack Developer opportunities
+
+---
+
 <p align="center">
 
-⭐ **Open to Junior Full Stack Developer Opportunities**
+⭐ **Thanks for visiting my profile!** ⭐
+
+**Open to Junior Full Stack Developer Opportunities**
 
 </p>
